@@ -51,6 +51,10 @@
               "target": "Package",
               "version": "[8.0.10, )"
             },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.1.0, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[8.0.10, )"
